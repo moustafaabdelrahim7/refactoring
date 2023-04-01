@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1680074351 source:e:\sprints\refactoring\check balance\source\stack.c
+	"../header/stack.h"
+
+1680074335 e:\sprints\refactoring\check balance\header\stack.h
+	"std_types.h"
+
+1680074101 e:\sprints\refactoring\check balance\header\std_types.h
+
+1680076966 source:e:\sprints\refactoring\check balance\main.c
+	"header/paranthethes.h"
+
+1680077092 e:\sprints\refactoring\check balance\header\paranthethes.h
+	"stack.h"
+	"std_types.h"
+	<stdio.h>
+	<stdlib.h>
+
+1680077064 source:e:\sprints\refactoring\check balance\source\paranthethes.c
+	"../header/paranthethes.h"
+

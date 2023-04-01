@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1680079212 source:e:\sprints\refactoring\lcs size\source\algorithm.c
+	"../header/lcs_size.h"
+
+1680079368 e:\sprints\refactoring\lcs size\header\lcs_size.h
+	"insertion.h"
+	"std_types.h"
+
+1680079529 e:\sprints\refactoring\lcs size\header\insertion.h
+	"std_types.h"
+	<stdio.h>
+	<stdlib.h>
+
+1680074101 e:\sprints\refactoring\lcs size\header\std_types.h
+
+1680079057 source:e:\sprints\refactoring\lcs size\source\insertion.c
+	"../header/insertion.h"
+
+1680079941 source:e:\sprints\refactoring\lcs size\main.c
+	"header/lcs_size.h"
+
